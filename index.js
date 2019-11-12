@@ -12,6 +12,7 @@ function countdown(){
   while (countdown > 0) {
     console.log(countdown++);
   }
+}
 
 const gifts = ["teddy bear", "drone", "doll"];
 
@@ -22,4 +23,9 @@ function wrapGifts(gifts) {
 
   return gifts;
 }
+
+let countup = 0;
+while (countup < 10) {
+  console.log(countup++);
 }
+
