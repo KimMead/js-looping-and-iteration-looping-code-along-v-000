@@ -14,7 +14,7 @@ function countdown(){
   }
 }
 
-const gifts = ["teddy bear", "drone", "doll"];
+// const gifts = ["teddy bear", "drone", "doll"];
 
 // function wrapGifts(gifts) {
 //   for (let i = 0; i < gifts.length; i++) {
@@ -24,7 +24,7 @@ const gifts = ["teddy bear", "drone", "doll"];
 //   return gifts;
 // }
 
-let countup = 0;
-while (countup < 10) {
-  console.log(countup++);
-}
+// let countup = 0;
+// while (countup < 10) {
+//   console.log(countup++);
+// }
